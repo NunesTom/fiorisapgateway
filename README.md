@@ -165,7 +165,7 @@ Após o carregamento será necessário saber qual o endereço de execução da a
 ## Utilizando Fiori Client
 Será necessário acessar o Fiori Client tanto no navegador quando no dispositivo movel.
 
-- URL: http://dbcifrd.carbocloro.com.br:8000/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html#Shell-home
+- URL: http://<host>:<port>/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html#Shell-home
 
 ## Acessando no Navegador
 
@@ -189,7 +189,7 @@ No Firoi Client será visualizado exatamente e mesma coisa no navegador, com a d
 
 ## Acessando Fiori LauchingPad Designer
 Para a aplicação carregada será necessário inclui um um catalogo e em um grupo no Fiori LauchingPad.
-- URL: http://dbcifrd.carbocloro.com.br:8000/sap/bc/ui5_ui5/sap/arsrvc_upb_admn/main.html#/Catalog/X-SAP-UI2-CATALOGPAGE:/UI2/FLP_ADMIN
+- URL: http://<host>:<port>/sap/bc/ui5_ui5/sap/arsrvc_upb_admn/main.html#/Catalog/X-SAP-UI2-CATALOGPAGE:/UI2/FLP_ADMIN
 
 <p align="center">
   <img src="images/FioriDesigner-01.png" width="100%" title="FioriDesigner">
@@ -226,7 +226,7 @@ Transação: LPD_CUST
 
 - Agora vá para o Fiori LauchingPag, parar adicionar um Catalogo. E clique na ação de adicionar.
 
-URL: http://dbcifrd.carbocloro.com.br:8000/sap/bc/ui5_ui5/sap/arsrvc_upb_admn/main.html?sap-client=100&sap-language=PT
+URL: http://<host>:<port>/sap/bc/ui5_ui5/sap/arsrvc_upb_admn/main.html?sap-client=100&sap-language=PT
 <p align="center">
   <img src="images/AddAppCatalogo-05.png" width="100%" title="Fiori">
 </p>
