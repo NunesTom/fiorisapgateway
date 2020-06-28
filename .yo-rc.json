@@ -1,0 +1,12 @@
+{
+  "generator-easy-ui5": {
+    "projectname": "myUI5App",
+    "namespace": "com.myorg",
+    "platform": "Static webserver",
+    "viewtype": "XML",
+    "viewname": "MainView",
+    "ui5libs": "Content delivery network (SAPUI5)",
+    "newdir": true,
+    "namespaceURI": "com/myorg"
+  }
+}
