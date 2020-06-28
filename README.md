@@ -28,27 +28,27 @@ Para checar os componentes instalados devemos seguir os passos abaixo:
 
 - No menu clique em "Sistema"
 <p align="center">
-  <img src="images/Commponentes_instalados_01.png" width="100%" title="Sistema">
+  <img src="images/compinstalados-1.png" width="100%" title="Sistema">
 </p>
 
 - No menu clique em "Status"
 <p align="center">
-  <img src="images/Commponentes_instalados_02.png" width="100%" title="Sistema">
+  <img src="images/compinstalados-2.png" width="100%" title="Sistema">
 </p>
 
 - No dialogo que aparece clique no botão abaixo de "Versão Componente"
 <p align="center">
-  <img src="images/Commponentes_instalados_03.png" width="100%" title="Sistema">
+  <img src="images/compinstalados-3.png" width="100%" title="Sistema">
 </p>
 
 - No dialogo que aparece verifique os componentes instalados na primeira aba
 <p align="center">
-  <img src="images/Commponentes_instalados_04.png" width="100%" title="Sistema">
+  <img src="images/compinstalados-4.png" width="100%" title="Sistema">
 </p>
 
 - Na segunda aba certifique-se que os componentes SAP Netweaver e SAP UI Add-on estejam instalados
 <p align="center">
-  <img src="images/Commponentes_instalados_05.png" width="100%" title="Sistema">
+  <img src="images/compinstalados-5.png" width="100%" title="Sistema">
 </p>
 
 ## Checar se o SAPui5 está instalado e verificando a versão
